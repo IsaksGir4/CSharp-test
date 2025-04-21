@@ -1,0 +1,14 @@
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\bin\Debug\net9.0\tallerC#.exe
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\bin\Debug\net9.0\tallerC#.deps.json
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\bin\Debug\net9.0\tallerC#.runtimeconfig.json
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\bin\Debug\net9.0\tallerC#.dll
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\bin\Debug\net9.0\tallerC#.pdb
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\obj\Debug\net9.0\tallerC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\obj\Debug\net9.0\tallerC#.AssemblyInfoInputs.cache
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\obj\Debug\net9.0\tallerC#.AssemblyInfo.cs
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\obj\Debug\net9.0\tallerC#.csproj.CoreCompileInputs.cache
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\obj\Debug\net9.0\tallerC#.dll
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\obj\Debug\net9.0\refint\tallerC#.dll
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\obj\Debug\net9.0\tallerC#.pdb
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\obj\Debug\net9.0\tallerC#.genruntimeconfig.cache
+C:\Users\magor\Documents\compi2025\csharp\tallerC#\obj\Debug\net9.0\ref\tallerC#.dll
